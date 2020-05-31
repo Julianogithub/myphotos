@@ -15,5 +15,6 @@
         <!--module>myphotos-rest</module-->
         <!--module>myphotos-ws</module-->
         <module>myphotos-ear</module>
+        <module>JavaApplication1/myphotos---test</module>
     </modules>
 </project>
